@@ -559,7 +559,7 @@ def analyze_video(video_path:str,output_name:str='new_video'):
     video.release()
     writer.release()
     cv2.destroyAllWindows()
-    print("\nVideo {output_name} processed.\n")
+    print(f"\nVideo {output_name} processed.\n")
     print(f"sorry for taking so long!")
     print(f"Total time taken: {round((time.time() - timer), 3)}s.")
 

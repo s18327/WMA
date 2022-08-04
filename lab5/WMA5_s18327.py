@@ -5,6 +5,7 @@
 # 2. On the photo indicated in the commandline, the algorithm will indicate the detected objects and mark the on the screen.
 # 3. On the film indicated in the commandline it will indicate the detected objects and mark the on the screen.
 # 4. The object should be marked as an appropriate envelope and class symbol throughout all the duration of the movie.
+
 # ### Please send the program code and the results of the code (photo and video with tagged objects) via Teams at the time specified in the assignment.
 # ### Good luck
 # #### Mateusz Andrzejewski 
